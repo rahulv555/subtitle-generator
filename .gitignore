@@ -1,0 +1,8 @@
+# Ignore all mp4, srt, wav files in the root directory
+*.mp4
+*.srt
+*.wav
+
+# Ignore the __pycache__ folder in any subfolder
+**/__pycache__/
+venv
